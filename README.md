@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>I am working on an ISO20022 swift messaging app in collaboration with FASYL Tech using the following programming languages: NextJS (frontend), Python and Golang(backend), NGINX as a web server. I learning Web 3.0 and need help building NFT dApp for Aptos and cross-chain dApp for Zetachain
 
 
